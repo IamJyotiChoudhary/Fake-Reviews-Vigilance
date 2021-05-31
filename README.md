@@ -1,0 +1,2 @@
+# Fake-Reviews-Vigilance
+The demand for e-commerce platforms are constantly increasing and many of us are buying products from these platforms. As a result, the number of comments on the products are also shown in detail so that users can analyze the product they want to purchase. But sometimes, it can work against users, as (fake)users may at some point bombard the review area with extreme opinion comments that can work in favor or against the product.
